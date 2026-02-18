@@ -2,6 +2,8 @@
 
 This project supports **historical analysis of our patient population** and how **health outcomes have changed over time**. As a health insurance provider, we use this data to understand trends in demographics, utilization, conditions, and outcomes—enabling evidence-based decisions about care quality, risk, and population health management.
 
+**[View Live Dashboard →](https://public.tableau.com/views/PatientHealthTrendsandOutcomes/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 ---
 
 ## Key Findings
