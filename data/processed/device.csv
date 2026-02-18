@@ -1,0 +1,209 @@
+patient_id,device_expiration_date,device_name,device_expired
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2025-10-07T21:18:16-04:00,Respiratory apnea monitoring system (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2046-10-17T22:40:49-04:00,Home continuous positive airway pressure unit (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2036-04-05T07:40:44-04:00,Home continuous positive airway pressure unit (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2033-04-30T07:35:10-04:00,Home continuous positive airway pressure unit (physical object),0
+fe9dae46-cd75-08a3-e516-b318157a1045,1979-03-05T21:54:36-05:00,Home nebulizer (physical object),1
+79a66c97-6131-3213-f3c9-4606946ab056,1983-07-27T23:58:16-04:00,Blood glucose meter (physical object),1
+256def0d-5d1b-6bac-f308-5fd8ead611d9,2007-06-08T03:10:11-04:00,Home nebulizer (physical object),1
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2039-04-26T19:22:02-04:00,Home continuous positive airway pressure unit (physical object),0
+2091f7e9-851a-af05-8476-7a921eff0c42,2026-04-25T08:00:13-04:00,Blood glucose meter (physical object),0
+b00044c0-9b7f-31a5-356a-42623bdcc399,1965-06-12T23:30:39-04:00,Manual wheelchair (physical object),1
+256def0d-5d1b-6bac-f308-5fd8ead611d9,2025-05-30T03:10:11-04:00,Home nebulizer (physical object),1
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2034-03-28T19:02:40-04:00,Respiratory humidifier (physical object),0
+3f7dabc8-bd58-f2f7-852a-2a8ae181c002,2041-01-13T17:42:08-05:00,"Hospital bed, device (physical object)",0
+e954fda7-a502-622a-368c-f0627864eb76,2046-06-21T18:11:00-04:00,Home nebulizer (physical object),0
+71100b65-985a-2db0-3b6e-bc2caec5cc20,2047-09-06T16:33:59-04:00,"Hospital bed, device (physical object)",0
+92ef04ed-b00e-eea9-05d6-39b383aef452,2043-03-01T12:38:52-05:00,Blood glucose meter (physical object),0
+01707a0c-9619-ccba-695a-b270744d76c2,2047-01-12T07:32:54-05:00,Patient lifting system (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,1999-09-11T07:23:53-04:00,Blood glucose meter (physical object),1
+7f1ffba9-484c-0cb1-5e44-2e741910b1b7,2022-06-14T09:45:16-04:00,Home nebulizer (physical object),1
+4d2634ac-6624-477c-7e7f-8d5292630fdd,2014-01-15T19:58:37-05:00,Home nebulizer (physical object),1
+4d2634ac-6624-477c-7e7f-8d5292630fdd,2045-01-20T03:01:11-05:00,Manual wheelchair (physical object),0
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2025-10-08T01:50:16-04:00,Respiratory humidifier (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2028-09-09T07:53:19-04:00,Respiratory humidifier (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2022-10-15T07:39:12-04:00,Respiratory humidifier (physical object),1
+d914b469-9539-5f4e-0411-b1b991b774d0,2035-12-10T04:03:17-05:00,Blood glucose meter (physical object),0
+60d7c804-de06-878a-a38c-1cdd9e352c91,2006-09-24T17:56:01-04:00,Portable oxygen concentrator (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2027-06-19T07:35:11-04:00,Respiratory humidifier (physical object),0
+ef04d7bf-2139-3c3b-9a8d-5806f78544cf,2038-07-22T21:11:33-04:00,"Hospital bed, device (physical object)",0
+01707a0c-9619-ccba-695a-b270744d76c2,2047-01-12T07:32:54-05:00,"Hospital bed, device (physical object)",0
+01871b4c-ee11-02de-8305-54d35ae16259,2027-08-14T07:45:38-04:00,Home continuous positive airway pressure unit (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2013-07-24T18:09:00-04:00,Respiratory humidifier (physical object),1
+38565fbc-fded-7a3d-b303-f37458ac14ff,2043-03-06T07:56:49-05:00,Blood glucose meter (physical object),0
+dd3c6122-6852-f02e-2a31-acd358a1a6db,2016-06-29T17:52:12-04:00,Blood glucose meter (physical object),1
+6a4160eb-a793-2f86-2302-378626f46cce,2031-05-07T14:37:35-04:00,Manual wheelchair (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2025-07-12T07:46:23-04:00,Respiratory humidifier (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2028-11-18T06:44:59-05:00,Respiratory humidifier (physical object),0
+76fbb143-baad-cc88-fa9f-b8d1c63e6a9b,2002-11-21T16:56:01-05:00,Home nebulizer (physical object),1
+fe9dae46-cd75-08a3-e516-b318157a1045,2005-06-13T22:54:36-04:00,Oxygen concentrator (physical object),1
+fe9dae46-cd75-08a3-e516-b318157a1045,2006-07-31T22:54:36-04:00,Commode (physical object),1
+4a326793-814f-5274-8c12-22b85873b2e6,1981-12-12T18:23:53-05:00,Home nebulizer (physical object),1
+5ba86595-ffbf-433a-5368-d1bac458e23d,2023-07-26T10:24:48-04:00,Blood glucose meter (physical object),1
+369f44c8-3896-87cf-5b27-de277dcd0663,2048-01-31T07:55:25-05:00,Aortic valve bioprosthesis (physical object),0
+1db12db9-951f-6700-6fb6-23a227eff320,2038-12-20T07:30:04-05:00,Manual wheelchair (physical object),0
+b00044c0-9b7f-31a5-356a-42623bdcc399,2005-01-06T22:30:39-05:00,Blood glucose meter (physical object),1
+369f44c8-3896-87cf-5b27-de277dcd0663,2006-07-08T13:42:08-04:00,Blood glucose meter (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2029-04-07T07:50:14-04:00,Home continuous positive airway pressure unit (physical object),0
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2003-11-18T17:52:37-05:00,Blood glucose meter (physical object),1
+c6d3310b-4c07-43ea-637c-2f6a981e25db,2038-08-04T14:12:29-04:00,Home nebulizer (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2017-09-16T07:44:06-04:00,Home continuous positive airway pressure unit (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2028-03-11T06:39:08-05:00,Home continuous positive airway pressure unit (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2036-08-20T22:16:03-04:00,Respiratory humidifier (physical object),0
+fe9dae46-cd75-08a3-e516-b318157a1045,2006-07-31T22:54:36-04:00,"Hospital bed, device (physical object)",1
+129c6ac7-8d06-89de-ad63-0204a93e76c3,1997-04-23T23:58:16-04:00,Blood glucose meter (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2029-04-07T07:50:14-04:00,Respiratory humidifier (physical object),0
+af218d53-f2fc-aa1e-d928-a1f7b5179550,2008-10-03T23:30:39-04:00,Manual wheelchair (physical object),1
+09e4bdf5-f133-1637-1493-2e489bff1d7b,2003-01-17T05:37:58-05:00,Blood glucose meter (physical object),1
+6a4160eb-a793-2f86-2302-378626f46cce,2031-05-07T14:37:35-04:00,Wheelchair accessory (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2002-04-20T00:23:53-04:00,Home nebulizer (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2028-03-11T06:39:08-05:00,Respiratory humidifier (physical object),0
+7375af86-539d-bd08-7640-e1226f8a78d2,2040-08-30T15:19:31-04:00,Home nebulizer (physical object),0
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2044-05-24T18:52:37-04:00,Home continuous positive airway pressure unit (physical object),0
+577451a9-4afd-ed9b-7da6-7722b8ebda03,2022-07-10T17:56:01-04:00,Blood glucose meter (physical object),1
+1db12db9-951f-6700-6fb6-23a227eff320,2022-05-24T10:13:12-04:00,Home nebulizer (physical object),1
+b7d041bb-e8b1-3fb2-352e-53de4a5b5835,2040-03-12T22:05:43-04:00,Manual wheelchair (physical object),0
+8d191ac0-e20f-0732-f1a2-c1d1fb13a87b,2017-02-25T02:34:02-05:00,Home nebulizer (physical object),1
+78d68722-f22f-190a-c616-95e50e358bf0,2027-06-18T18:39:06-04:00,Home nebulizer (physical object),0
+a5cb8ce9-cec6-6b23-0990-cbaf753578a4,2006-06-07T23:58:16-04:00,Blood glucose meter (physical object),1
+4a326793-814f-5274-8c12-22b85873b2e6,2026-10-03T07:35:08-04:00,Respiratory humidifier (physical object),0
+2662b128-d6f7-43f8-3761-ab1ae6bbd5ef,2029-03-21T10:24:48-04:00,Blood glucose meter (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2026-11-18T21:35:08-05:00,Home continuous positive airway pressure unit (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2033-04-30T07:35:10-04:00,Respiratory humidifier (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2028-09-09T07:53:19-04:00,Home continuous positive airway pressure unit (physical object),0
+b00044c0-9b7f-31a5-356a-42623bdcc399,2025-12-25T22:30:39-05:00,Manual wheelchair (physical object),1
+4aa83fb3-3ce3-4c6d-d1c3-99bec8789c93,2043-09-29T11:33:29-04:00,Manual wheelchair (physical object),0
+60d7c804-de06-878a-a38c-1cdd9e352c91,2006-09-24T17:56:01-04:00,Oxygen concentrator (physical object),1
+7d9aa431-cd72-8aa2-9559-5920937d9330,2002-11-21T00:18:37-05:00,Blood glucose meter (physical object),1
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2044-05-24T18:52:37-04:00,Respiratory humidifier (physical object),0
+60d7c804-de06-878a-a38c-1cdd9e352c91,2014-06-15T17:56:01-04:00,Oxygen concentrator (physical object),1
+a4a401d1-a46a-eb4a-8a38-760d5d79d6ec,2047-11-04T17:17:37-05:00,Respiratory apnea monitoring system (physical object),0
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2039-04-26T19:22:02-04:00,Respiratory humidifier (physical object),0
+fe9dae46-cd75-08a3-e516-b318157a1045,2005-09-26T22:54:36-04:00,Oxygen concentrator (physical object),1
+297a0b2a-0f16-f1c9-d80b-018a08da34e3,2009-06-05T23:30:39-04:00,Home nebulizer (physical object),1
+ded05586-3722-2fc0-b5e3-e89c54c3bcda,2030-01-09T09:20:50-05:00,Walker (physical object),0
+5d17cb50-cce7-6f64-1709-db4ab6d4926a,1966-03-28T21:54:36-05:00,Blood glucose meter (physical object),1
+53b879ef-a222-ed0a-fd91-f14c32ce7c8e,2045-05-07T23:21:48-04:00,Patient lifting system (physical object),0
+60d7c804-de06-878a-a38c-1cdd9e352c91,2000-11-24T09:56:01-05:00,Home nebulizer (physical object),1
+1a566a2d-40e6-d93a-0b7c-f4038feebf7e,2047-08-07T05:14:59-04:00,Blood glucose meter (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2027-06-19T07:35:11-04:00,Home continuous positive airway pressure unit (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2023-05-19T08:30:53-04:00,Respiratory humidifier (physical object),1
+41a749f0-5256-eb1a-994f-6680cc815ea2,2044-10-03T10:01:25-04:00,Manual wheelchair (physical object),0
+7ea1a858-0e1b-4530-843e-42f7e478e39b,2045-12-30T23:48:46-05:00,Manual wheelchair (physical object),0
+369f44c8-3896-87cf-5b27-de277dcd0663,2046-09-02T13:56:37-04:00,Manual wheelchair (physical object),0
+a1343e6c-8cd0-664b-a123-cf8e3c3e15c3,2033-11-11T10:35:54-05:00,Blood glucose meter (physical object),0
+f320ff84-982e-7c34-7aad-bc133c26151b,2021-09-04T17:58:29-04:00,Blood glucose meter (physical object),1
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2025-10-07T21:18:16-04:00,Polysomnography analyzer (physical object),1
+53b879ef-a222-ed0a-fd91-f14c32ce7c8e,2045-05-07T23:21:48-04:00,"Hospital bed, device (physical object)",0
+60d7c804-de06-878a-a38c-1cdd9e352c91,2006-02-26T16:56:01-05:00,Home nebulizer (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2028-11-18T06:44:59-05:00,Home continuous positive airway pressure unit (physical object),0
+7375af86-539d-bd08-7640-e1226f8a78d2,2045-02-06T17:52:31-05:00,Manual wheelchair (physical object),0
+239f5e4c-f482-ddae-c126-3179c0ff5985,2046-05-23T22:54:36-04:00,Wheelchair accessory (physical object),0
+3f7dabc8-bd58-f2f7-852a-2a8ae181c002,2047-08-19T19:16:29-04:00,Manual wheelchair (physical object),0
+f8d3c2ee-4eab-01b5-d145-687dd899a7fa,2046-12-22T02:30:32-05:00,Manual wheelchair (physical object),0
+297a0b2a-0f16-f1c9-d80b-018a08da34e3,2006-04-27T23:30:39-04:00,Portable oxygen cylinder (physical object),1
+fe9dae46-cd75-08a3-e516-b318157a1045,2004-07-05T22:54:36-04:00,Oxygen concentrator (physical object),1
+fe9dae46-cd75-08a3-e516-b318157a1045,2006-01-16T21:54:36-05:00,Oxygen concentrator (physical object),1
+3f7dabc8-bd58-f2f7-852a-2a8ae181c002,2036-04-13T18:42:08-04:00,Home nebulizer (physical object),0
+525b6c4d-e6c2-bde9-5ad5-697e5b246755,2045-12-28T22:30:39-05:00,Manual wheelchair (physical object),0
+fe9dae46-cd75-08a3-e516-b318157a1045,2006-02-13T21:54:36-05:00,"Hospital bed, device (physical object)",1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2023-05-19T00:37:53-04:00,Polysomnography analyzer (physical object),1
+e71e4190-e3e1-42b6-50ff-d777948d7798,2005-08-08T00:26:08-04:00,Home nebulizer (physical object),1
+71100b65-985a-2db0-3b6e-bc2caec5cc20,2004-11-05T15:33:59-05:00,Blood glucose meter (physical object),1
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2030-03-05T17:52:37-05:00,Home continuous positive airway pressure unit (physical object),0
+15a4f9fc-8059-26af-9586-723d1b06ba05,2014-09-27T07:23:53-04:00,Blood glucose meter (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2027-08-14T07:45:38-04:00,Respiratory humidifier (physical object),0
+3af3708d-41f1-cd80-f3dd-ec5ac76072bf,1995-12-01T11:43:52-05:00,Crutches (physical object),1
+4a326793-814f-5274-8c12-22b85873b2e6,2036-04-05T07:40:44-04:00,Respiratory humidifier (physical object),0
+fe9dae46-cd75-08a3-e516-b318157a1045,2005-06-20T22:54:36-04:00,Oxygen concentrator (physical object),1
+256def0d-5d1b-6bac-f308-5fd8ead611d9,2034-07-21T03:10:11-04:00,Oxygen concentrator (physical object),0
+4953d3b5-f3f0-2aaf-3dc0-3c581ed15647,1993-09-20T14:30:39-04:00,Home nebulizer (physical object),1
+a4a401d1-a46a-eb4a-8a38-760d5d79d6ec,2047-11-05T00:26:37-05:00,Home continuous positive airway pressure unit (physical object),0
+901cfac3-ffeb-a347-dfd8-421453083e45,2042-09-04T00:26:47-04:00,Manual wheelchair (physical object),0
+1070722d-4a74-36c7-127c-c167f61bccd9,2046-11-30T03:10:05-05:00,Blood glucose meter (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2033-03-04T11:16:03-05:00,Home nebulizer (physical object),0
+f6443152-1ea7-5cc1-c426-28ba3cb0fefa,2001-12-27T20:58:29-05:00,Home nebulizer (physical object),1
+239f5e4c-f482-ddae-c126-3179c0ff5985,2046-05-23T22:54:36-04:00,Manual wheelchair (physical object),0
+53b879ef-a222-ed0a-fd91-f14c32ce7c8e,1989-07-02T23:21:48-04:00,Blood glucose meter (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2017-09-16T07:44:06-04:00,Respiratory humidifier (physical object),1
+4a326793-814f-5274-8c12-22b85873b2e6,2025-07-12T07:46:23-04:00,Home continuous positive airway pressure unit (physical object),1
+6a883108-7b87-120b-d163-d369336e04e5,2041-02-04T22:14:12-05:00,Home nebulizer (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2031-02-08T06:36:47-05:00,Respiratory humidifier (physical object),0
+ddcffdeb-076e-e5e0-6c22-9b16d3dee93d,2028-07-06T11:29:25-04:00,Blood glucose meter (physical object),0
+01871b4c-ee11-02de-8305-54d35ae16259,2013-07-24T18:09:00-04:00,Home continuous positive airway pressure unit (physical object),1
+5d17cb50-cce7-6f64-1709-db4ab6d4926a,2009-10-12T22:54:36-04:00,"Hospital bed, device (physical object)",1
+958a1e8b-9a94-7549-e53a-20e256b83f4b,2043-06-09T03:00:20-04:00,Blood glucose meter (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2046-10-17T22:40:49-04:00,Respiratory humidifier (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2023-05-19T08:30:53-04:00,Home continuous positive airway pressure unit (physical object),1
+b00044c0-9b7f-31a5-356a-42623bdcc399,1965-06-12T23:30:39-04:00,Wheelchair accessory (physical object),1
+78d68722-f22f-190a-c616-95e50e358bf0,2039-11-24T17:39:06-05:00,Blood glucose meter (physical object),0
+7d9aa431-cd72-8aa2-9559-5920937d9330,2038-04-29T01:18:37-04:00,"Hospital bed, device (physical object)",0
+a4a401d1-a46a-eb4a-8a38-760d5d79d6ec,2047-11-04T17:17:37-05:00,Polysomnography analyzer (physical object),0
+256def0d-5d1b-6bac-f308-5fd8ead611d9,2024-05-24T03:10:11-04:00,Blood glucose meter (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2036-08-20T22:16:03-04:00,Home continuous positive airway pressure unit (physical object),0
+fe9dae46-cd75-08a3-e516-b318157a1045,2004-07-05T22:54:36-04:00,Portable oxygen concentrator (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2027-02-13T06:36:57-05:00,Respiratory humidifier (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2027-12-25T06:23:53-05:00,Home continuous positive airway pressure unit (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2022-07-17T16:11:22-04:00,Home continuous positive airway pressure unit (physical object),1
+4953d3b5-f3f0-2aaf-3dc0-3c581ed15647,1989-03-02T22:30:39-05:00,Blood glucose meter (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2026-11-18T21:35:08-05:00,Respiratory humidifier (physical object),0
+f5699bb5-3010-6c32-2cbf-1543406d8df0,2047-03-28T01:59:43-04:00,Manual wheelchair (physical object),0
+c695d56e-70f2-0109-f8b5-016ff3111de1,2031-09-21T22:32:20-04:00,Blood glucose meter (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2023-05-19T00:37:53-04:00,Respiratory apnea monitoring system (physical object),1
+60d7c804-de06-878a-a38c-1cdd9e352c91,2006-09-24T17:56:01-04:00,Blood glucose meter (physical object),1
+cac006ad-3737-0e23-29cd-738f366166dc,2017-09-23T23:37:28-04:00,Blood glucose meter (physical object),1
+297a0b2a-0f16-f1c9-d80b-018a08da34e3,1998-03-12T22:30:39-05:00,Home nebulizer (physical object),1
+4a326793-814f-5274-8c12-22b85873b2e6,2022-07-17T16:11:22-04:00,Respiratory humidifier (physical object),1
+a5cb8ce9-cec6-6b23-0990-cbaf753578a4,2043-10-12T02:16:29-04:00,Manual wheelchair (physical object),0
+8e1a0a7c-e308-444b-075a-3c2b1f60f881,2010-06-13T12:31:08-04:00,Blood glucose meter (physical object),1
+57fce42f-c578-b50a-bdee-468ebaa9df39,2039-08-17T02:00:23-04:00,Home nebulizer (physical object),0
+4d2634ac-6624-477c-7e7f-8d5292630fdd,2024-03-07T00:58:37-05:00,Blood glucose meter (physical object),1
+2091f7e9-851a-af05-8476-7a921eff0c42,2046-01-19T09:00:28-05:00,Manual wheelchair (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2024-01-27T06:52:27-05:00,Respiratory humidifier (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2040-05-02T22:16:03-04:00,"Hospital bed, device (physical object)",0
+01871b4c-ee11-02de-8305-54d35ae16259,2022-10-15T07:39:12-04:00,Home continuous positive airway pressure unit (physical object),1
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2025-10-08T01:50:16-04:00,Home continuous positive airway pressure unit (physical object),1
+60d7c804-de06-878a-a38c-1cdd9e352c91,2013-11-17T16:56:01-05:00,Portable oxygen cylinder (physical object),1
+1db12db9-951f-6700-6fb6-23a227eff320,2044-08-29T07:13:12-04:00,Walker (physical object),0
+a1343e6c-8cd0-664b-a123-cf8e3c3e15c3,2041-07-23T11:35:54-04:00,Manual wheelchair (physical object),0
+5d17cb50-cce7-6f64-1709-db4ab6d4926a,2006-01-30T21:54:36-05:00,"Hospital bed, device (physical object)",1
+e06d54df-d241-9451-9576-4123d8b3148c,2033-10-05T01:39:36-04:00,Blood glucose meter (physical object),0
+7d9aa431-cd72-8aa2-9559-5920937d9330,2033-08-11T01:18:37-04:00,"Hospital bed, device (physical object)",0
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2034-03-28T19:02:40-04:00,Home continuous positive airway pressure unit (physical object),0
+6c9c8bdd-b07a-d183-8c2c-0d53f3036f96,2030-03-05T17:52:37-05:00,Respiratory humidifier (physical object),0
+53b879ef-a222-ed0a-fd91-f14c32ce7c8e,2035-08-28T23:21:48-04:00,Home nebulizer (physical object),0
+76fbb143-baad-cc88-fa9f-b8d1c63e6a9b,2023-01-08T16:56:01-05:00,Blood glucose meter (physical object),1
+8d191ac0-e20f-0732-f1a2-c1d1fb13a87b,2036-12-31T13:34:02-05:00,Blood glucose meter (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2026-10-03T07:35:08-04:00,Home continuous positive airway pressure unit (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2041-09-18T22:39:53-04:00,Home continuous positive airway pressure unit (physical object),0
+d85ff42e-0ff4-8a75-8a13-4f22e7055987,2018-10-04T11:00:31-04:00,Blood glucose meter (physical object),1
+60d7c804-de06-878a-a38c-1cdd9e352c91,2014-09-14T17:56:01-04:00,Oxygen concentrator (physical object),1
+01871b4c-ee11-02de-8305-54d35ae16259,2027-02-13T06:36:57-05:00,Home continuous positive airway pressure unit (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2031-02-08T06:36:47-05:00,Home continuous positive airway pressure unit (physical object),0
+63ee2253-bdd5-da55-2ad2-b4984d0ad700,2041-12-28T10:09:01-05:00,Manual wheelchair (physical object),0
+4aa83fb3-3ce3-4c6d-d1c3-99bec8789c93,2032-03-31T09:44:29-04:00,Blood glucose meter (physical object),0
+5d17cb50-cce7-6f64-1709-db4ab6d4926a,2006-01-30T21:54:36-05:00,Commode (physical object),1
+79a66c97-6131-3213-f3c9-4606946ab056,1962-05-31T10:58:16-04:00,Home nebulizer (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2041-09-18T22:39:53-04:00,Respiratory humidifier (physical object),0
+2662b128-d6f7-43f8-3761-ab1ae6bbd5ef,2030-11-13T09:24:48-05:00,Walker (physical object),0
+577451a9-4afd-ed9b-7da6-7722b8ebda03,2013-06-02T11:56:01-04:00,Home nebulizer (physical object),1
+851dcf76-7a04-312c-b471-cd8fecfeabdc,2014-05-18T23:21:48-04:00,Blood glucose meter (physical object),1
+01707a0c-9619-ccba-695a-b270744d76c2,2024-01-20T07:32:54-05:00,Blood glucose meter (physical object),1
+bc888c14-1c99-e323-8ab4-dd822f21b60b,2038-06-27T01:04:52-04:00,Blood glucose meter (physical object),0
+5d17cb50-cce7-6f64-1709-db4ab6d4926a,1953-10-16T02:54:36-05:00,Home nebulizer (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2031-07-23T22:43:05-04:00,Home continuous positive airway pressure unit (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2000-09-16T07:23:53-04:00,Blood glucose meter (physical object),1
+dd3c6122-6852-f02e-2a31-acd358a1a6db,2033-04-25T17:52:12-04:00,Walker (physical object),0
+369f44c8-3896-87cf-5b27-de277dcd0663,2014-01-03T01:42:08-05:00,Home nebulizer (physical object),1
+525b6c4d-e6c2-bde9-5ad5-697e5b246755,1983-02-24T22:30:39-05:00,Blood glucose meter (physical object),1
+9c29d9d1-ff28-b22c-461d-431d953326e3,2031-07-23T22:43:05-04:00,Respiratory humidifier (physical object),0
+15a4f9fc-8059-26af-9586-723d1b06ba05,2041-05-10T22:23:53-04:00,Home nebulizer (physical object),0
+42618df6-53ac-d2d7-6281-1ab4094bc26c,2043-08-13T01:18:37-04:00,Manual wheelchair (physical object),0
+3af3708d-41f1-cd80-f3dd-ec5ac76072bf,1996-09-01T12:31:08-04:00,"Hospital bed, device (physical object)",1
+7bc002fa-dc52-17d6-1563-fd8901826f7d,2045-05-16T11:46:59-04:00,Blood glucose meter (physical object),0
+a4a401d1-a46a-eb4a-8a38-760d5d79d6ec,2047-11-05T00:26:37-05:00,Respiratory humidifier (physical object),0
+239f5e4c-f482-ddae-c126-3179c0ff5985,2046-05-24T00:44:36-04:00,Manual wheelchair (physical object),0
+4a326793-814f-5274-8c12-22b85873b2e6,2027-12-25T06:23:53-05:00,Respiratory humidifier (physical object),0
+256def0d-5d1b-6bac-f308-5fd8ead611d9,2034-03-10T02:10:11-05:00,Oxygen concentrator (physical object),0
+9c29d9d1-ff28-b22c-461d-431d953326e3,2009-07-15T22:16:03-04:00,Blood glucose meter (physical object),1
+4a326793-814f-5274-8c12-22b85873b2e6,2024-01-27T06:52:27-05:00,Home continuous positive airway pressure unit (physical object),1
